@@ -1,0 +1,14 @@
+C:\RoadMap\Track\Projects\CountingFrozenSegments\CountingFrozenSegments\bin\Debug\net10.0\CountingFrozenSegments.exe
+C:\RoadMap\Track\Projects\CountingFrozenSegments\CountingFrozenSegments\bin\Debug\net10.0\CountingFrozenSegments.deps.json
+C:\RoadMap\Track\Projects\CountingFrozenSegments\CountingFrozenSegments\bin\Debug\net10.0\CountingFrozenSegments.runtimeconfig.json
+C:\RoadMap\Track\Projects\CountingFrozenSegments\CountingFrozenSegments\bin\Debug\net10.0\CountingFrozenSegments.dll
+C:\RoadMap\Track\Projects\CountingFrozenSegments\CountingFrozenSegments\bin\Debug\net10.0\CountingFrozenSegments.pdb
+C:\RoadMap\Track\Projects\CountingFrozenSegments\CountingFrozenSegments\obj\Debug\net10.0\CountingFrozenSegments.GeneratedMSBuildEditorConfig.editorconfig
+C:\RoadMap\Track\Projects\CountingFrozenSegments\CountingFrozenSegments\obj\Debug\net10.0\CountingFrozenSegments.AssemblyInfoInputs.cache
+C:\RoadMap\Track\Projects\CountingFrozenSegments\CountingFrozenSegments\obj\Debug\net10.0\CountingFrozenSegments.AssemblyInfo.cs
+C:\RoadMap\Track\Projects\CountingFrozenSegments\CountingFrozenSegments\obj\Debug\net10.0\CountingFrozenSegments.csproj.CoreCompileInputs.cache
+C:\RoadMap\Track\Projects\CountingFrozenSegments\CountingFrozenSegments\obj\Debug\net10.0\CountingFrozenSegments.dll
+C:\RoadMap\Track\Projects\CountingFrozenSegments\CountingFrozenSegments\obj\Debug\net10.0\refint\CountingFrozenSegments.dll
+C:\RoadMap\Track\Projects\CountingFrozenSegments\CountingFrozenSegments\obj\Debug\net10.0\CountingFrozenSegments.pdb
+C:\RoadMap\Track\Projects\CountingFrozenSegments\CountingFrozenSegments\obj\Debug\net10.0\CountingFrozenSegments.genruntimeconfig.cache
+C:\RoadMap\Track\Projects\CountingFrozenSegments\CountingFrozenSegments\obj\Debug\net10.0\ref\CountingFrozenSegments.dll
